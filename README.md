@@ -6,6 +6,7 @@ Blocks websites with a user interface
 you input a website url with just the Dns for the wesite EXAMPLE: www.youtube.com
 
 ![blocked-sitesText](https://user-images.githubusercontent.com/68308394/130373566-a9fd98e4-a41f-4aa4-b585-55355404b2b1.PNG)
+
 once the blocked sites button is clicked it will either diplay all done or will display error
 
 the sites that are block will vary how they are displayed to the user 
