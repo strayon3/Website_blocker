@@ -14,6 +14,6 @@ the sites that are block will vary how they are displayed to the user
 ![youtube-blocked-screen](https://user-images.githubusercontent.com/68308394/130373632-bd03ae4e-8e25-4353-a3cf-62a5a01dc1b8.PNG)
 ![facebook-bloc](https://user-images.githubusercontent.com/68308394/130373616-ef226296-f9ca-472b-ada1-c4dc4075985d.PNG)
 
-required librraries for this prodject are all from the tkinter lib 
+required librraries for this project are all from the tkinter lib 
 
 
